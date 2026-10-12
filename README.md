@@ -18,9 +18,9 @@
 
 ## About me
 
-I'm **Domino Girl**, a data analyst and an up-and-coming founder. I've been freelancing since early 2026, and I'm currently vibe coding tools for DeFi and marketing.
+I'm **Domino Girl**, a data analyst and aspiring founder. I've been freelancing since early 2026, building tools for DeFi and marketing through vibe coding.
 
-I want to be at the forefront of AI and build useful products.
+I'm passionate about being at the forefront of AI and building useful products that solve real problems.
 
 ## Selected work
 
