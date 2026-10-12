@@ -64,8 +64,7 @@ characters[~hit]=' '
 lines=[''.join(row).rstrip() for row in characters.reshape(ROWS,COLS)]
 (ROOT/'assets/hourglass.txt').write_text('\n'.join(lines).strip('\n')+'\n')
 
-for theme,bg,fg,muted in [('dark','#0d1117','#d8dee8','#6e7681'),('light','#ffffff','#24292f','#6e7781')]:
-    palette = ['#b5a6d8', '#86bfc4', '#ddbd88'] if theme == 'dark' else ['#75608f', '#357d84', '#946626']
+for theme,bg,fg,muted in [('dark','#000000','#ffffff','#ffffff'),('light','#ffffff','#000000','#000000')]:
     out=[f'<svg xmlns="http://www.w3.org/2000/svg" width="960" height="620" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">',
          '<title id="title">Domino Girl — ASCII hourglass</title>',
          '<desc id="desc">An original hourglass drawn entirely with monospaced characters, with metal rims and falling sand.</desc>',
@@ -75,8 +74,7 @@ for theme,bg,fg,muted in [('dark','#0d1117','#d8dee8','#6e7681'),('light','#ffff
         spans=[]
         for col,char in enumerate(line):
             if char == ' ': continue
-            colour = palette[material[row*COLS+col]]
-            spans.append(f'<tspan x="{180+col*6.6:.1f}" fill="{colour}">{html.escape(char)}</tspan>')
+            spans.append(f'<tspan x="{180+col*6.6:.1f}">{html.escape(char)}</tspan>')
         out.append(f'<text y="{38+row*8.55:.2f}">{"".join(spans)}</text>')
     out+=['</g>',f'<text x="480" y="554" text-anchor="middle" fill="{fg}" font-family="Courier New,monospace" font-size="23" letter-spacing="7">Domino Girl</text>',
           f'<text x="480" y="584" text-anchor="middle" fill="{muted}" font-family="Courier New,monospace" font-size="11" letter-spacing="3">DATA / TOOLS / AI / MARKETING</text>','</svg>']
