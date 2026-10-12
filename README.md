@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://advertisement.sucks">
+  <a href="https://github.com/0xDominoGirl/0xDominoGirl/blob/main/PROJECTS.md">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hourglass-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/hourglass-light.svg">
@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
+  <a href="https://x.com/0xDominoGirl">X / @0xDominoGirl</a>
+  &nbsp; / &nbsp;
+  <a href="PROJECTS.md">project index</a>
+  &nbsp; / &nbsp;
   <a href="https://advertisement.sucks">advertisement.sucks</a>
-  &nbsp; / &nbsp;
-  <a href="#selected-work">selected work</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/0xDominoGirl?tab=repositories">all repositories</a>
 </p>
 
 ## About me
@@ -37,14 +37,7 @@ A token research interface and a small price-display code example.
 **[MegaETH Dual Block Production](https://github.com/0xDominoGirl/MEGAETH-DUAL-BLOCK-PRODUCTION)**<br>
 A real-time visualizer of MegaETH mini blocks and EVM blocks.
 
-<details>
-<summary>More onchain experiments</summary>
-
-- [Contract deployment heatmap](https://github.com/0xDominoGirl/megaeth-heatmap)
-- [User growth and activity](https://github.com/0xDominoGirl/MEGAETH-USERS)
-- [MegaETH analytics portfolio](https://github.com/0xDominoGirl/OxDominoGirl.github.io)
-
-</details>
+[Explore the full project index →](PROJECTS.md)
 
 ---
 
