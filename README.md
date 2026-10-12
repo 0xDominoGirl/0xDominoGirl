@@ -18,11 +18,11 @@
 
 ## About me
 
-I'm **Domino Girl**, a data analyst and early-stage founder, freelancing since early 2026. I'm currently building tools around marketing, with a deep interest in how AI can help us understand data, explore ideas, and create better products.
+I'm **Domino Girl**, a data analyst and an up-and-coming founder. I've been freelancing since early 2026, and I'm currently vibe coding tools for DeFi and marketing.
 
-I work with Claude and ChatGPT as part of my workflow, experimenting with different models to analyse datasets, develop ideas, and turn them into working tools.
+I like testing new models like Opus, Fable, and Astra, figuring out what they're good at, and seeing what I can build with them.
 
-My ambition is to be at the forefront of AI, become excellent at what I do, and build useful products I'm proud to put my name on. I'm learning by doing—through freelance work, my own projects, and plenty of experimentation.
+I want to be at the forefront of AI and build useful products.
 
 ## Selected work
 
