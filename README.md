@@ -20,8 +20,6 @@
 
 I'm **Domino Girl**, a data analyst and an up-and-coming founder. I've been freelancing since early 2026, and I'm currently vibe coding tools for DeFi and marketing.
 
-I work with Opus, Fable, and Astra to analyse data, prototype ideas, and develop tools.
-
 I want to be at the forefront of AI and build useful products.
 
 ## Selected work
