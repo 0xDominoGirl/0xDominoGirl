@@ -18,9 +18,11 @@
 
 ## About me
 
-I'm **Domino Girl**. I'm curious about what datasets can reveal and what useful tools we can build from them. My interests span data analysis, AI, and marketing—especially how new technology changes the way products are built, discovered, and used.
+I'm **Domino Girl**, a data analyst and early-stage founder, freelancing since early 2026. I'm currently building tools around marketing, with a deep interest in how AI can help us understand data, explore ideas, and create better products.
 
-I want to be at the forefront of AI: learning through hands-on experiments, exploring new capabilities, and turning promising ideas into tools people can actually use.
+I work with Claude and ChatGPT as part of my workflow, experimenting with different models to analyse datasets, develop ideas, and turn them into working tools.
+
+My ambition is to be at the forefront of AI, become excellent at what I do, and build useful products I'm proud to put my name on. I'm learning by doing—through freelance work, my own projects, and plenty of experimentation.
 
 ## Selected work
 
